@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "othello_school", "othello_school\othello_school.vcxproj", "{5D3DF9CD-C345-4297-A522-90A6B705112E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Debug|x64.ActiveCfg = Debug|x64
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Debug|x64.Build.0 = Debug|x64
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Debug|x86.Build.0 = Debug|Win32
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Release|x64.ActiveCfg = Release|x64
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Release|x64.Build.0 = Release|x64
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Release|x86.ActiveCfg = Release|Win32
+		{5D3DF9CD-C345-4297-A522-90A6B705112E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E139D34-7992-4EB6-A9B9-47B3D2A66A21}
+	EndGlobalSection
+EndGlobal

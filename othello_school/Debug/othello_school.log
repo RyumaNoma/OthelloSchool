@@ -1,0 +1,7 @@
+﻿  othello_school.cpp
+D:\othello_school\othello_school\othello_school.cpp(61,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+D:\othello_school\othello_school\othello_school.cpp(292,11): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+D:\othello_school\othello_school\othello_school.cpp(292,11): message : プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+D:\othello_school\othello_school\othello_school.cpp(292,11): message : 不足している可変個引数 2 が書式文字列 '%s' に必要です
+D:\othello_school\othello_school\othello_school.cpp(292,11): message : この引数はバッファー サイズとして使用されます
+  othello_school.vcxproj -> D:\othello_school\Debug\othello_school.exe
